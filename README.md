@@ -1,2 +1,2 @@
-# maven-project with Jenkins CI
+# maven-project with Jenkins CI - Nawhanyate
 
